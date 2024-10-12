@@ -67,3 +67,4 @@ ss.current_prompt_name = technique
 
 # Run Main app logic
 view.render(controller)
+st.write(ss)
