@@ -59,3 +59,6 @@ prompt_template = PROMPT_TECHNIQUES["Zero-Shot"]
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Nick Tomsho - Contribution
+I have reworked the tree_of_thought prompt to provide quizzes specifically about the history and culture of Pittsburgh, PA while using the input as a way for the user to select the difficulty of quiz they would like.
